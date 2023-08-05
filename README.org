@@ -4,7 +4,7 @@ Common Lisp web framework with bells and whistles (based on ningle)
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/dnaeon/cl-jingle.git   |
-| commit  | d8a6308  |
+| commit  | c2cb003  |
 | systems | cl-jingle |
 |---------+-------------------------------------------|
 
